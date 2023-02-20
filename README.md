@@ -3,10 +3,9 @@
 
 - A Full Stack Engineer with 3+ years of experience in developing production-grade Web and Mobile applications in agile environments.
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="center"> 
+### 🛠️&nbsp; Languages & Tools
+
+<p align="center"> 
   <!-- Languages & Envs -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
@@ -45,11 +44,10 @@
   <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Download-Azure-Devops-Logo-SVG.png" alt="docker" width="40" height="40"/> 
   </a>
   </p>
-
-</details>
 <br>
 
-🔗 &nbsp;**Connect with me**
+
+### 🛠️&nbsp; Connect with me
 <p align="center">
 <a href="mailto:ahmedzakariaesdairi@gmail.com" >
 <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
