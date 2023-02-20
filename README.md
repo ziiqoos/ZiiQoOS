@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Ahmed-Zakaria
 ### ✨&nbsp; About Me
-
-- A Full Stack Engineer with 3+ years of experience in developing production-grade Web and Mobile applications in agile environments.
-
+<p align="center">
+- I'm Full Stack Engineer with 3+ years of experience in building production-grade Web/Mobile applications in Agile environments.
+</p>
 ### 🛠️&nbsp; Languages & Tools
 
 <p align="center"> 
