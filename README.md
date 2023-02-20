@@ -51,8 +51,8 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmed-zakaria-esdairi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" />
+<a href="https://www.linkedin.com/in/ahmed-zakaria-esdairi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" />
 </a>
-<a href="https://twitter.com/zesdairi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" />
+<a href="https://twitter.com/zesdairi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" />
 </a>
 </p>
