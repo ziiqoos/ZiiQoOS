@@ -47,7 +47,8 @@
 <br>
 
 
-### 🛠️&nbsp; Connect with me
+### 🔗&nbsp; Connect with me
+
 <p align="center">
 <a href="mailto:ahmedzakariaesdairi@gmail.com" >
 <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gautamkrishnar" height="30" width="40" /></a>
