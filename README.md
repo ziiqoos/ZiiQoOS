@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ahmed-Zakaria
 ### ✨&nbsp; About Me
 
-- I am a Full Stack Engineer with 3+ years of experience in developing production-grade full-stack web and mobile applications.
+- I am a Full Stack Engineer with 3+ years of experience in developing production-grade full-stack web and mobile applications in an agile environment.
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -18,7 +18,9 @@
   <!-- Frameworks & Libraries -->
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>
-  <a href="https://ionicframework.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="jest" width="40" height="40"/> 
+   <a href="https://ionicframework.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" alt="jest" width="40" height="40"/> 
+  </a>
+  <a href="https://rxjs.dev/" target="_blank"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="40" height="40"/> 
   </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
@@ -39,6 +41,8 @@
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Download-Azure-Devops-Logo-SVG.png" alt="docker" width="40" height="40"/> 
   </a>
   </p>
 
