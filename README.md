@@ -22,6 +22,8 @@
   </a>
   <a href="https://rxjs.dev/" target="_blank"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="50" height="50"/> 
   </a>
+    <a href="https://ngrx.io/" target="_blank"> <img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" width="50" height="50"/> 
+  </a>
    <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="50" height="50"/> 
   </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> 
