@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Zakaria
 ### ✨&nbsp; About Me
 <p align="center">
-- I am a Full Stack engineer with 3+ years of experience building production-grade web & mobile applications in Agile environments.
+- I am a Full Stack engineer with 5 years of experience building production-grade web & mobile applications in Agile environments.
 </p>
 
 ### 🛠️&nbsp; Languages & Tools
