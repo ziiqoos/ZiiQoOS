@@ -42,7 +42,7 @@
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
   </a>
-  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://zeevector.com/wp-content/uploads/Download-Azure-Devops-Logo-SVG.png" alt="docker" width="50" height="50"/> 
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="Azure DevOps" width="50" height="50"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
   </a>
